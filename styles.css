@@ -1,0 +1,27 @@
+body{
+    background: url(BG.jpg);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.image{
+    display: flex;
+    position: relative;
+    margin: 100px 300px 300px 300px;
+}
+.fir{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'calibri';
+}
+
+.sec{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: -250px 50px 300px 280px;
+}
